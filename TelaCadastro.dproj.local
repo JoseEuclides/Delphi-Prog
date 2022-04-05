@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/02 21:46:11.000.527,=C:\Users\jeucl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/04 20:14:04.358,=C:\Users\jeucl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/04 20:15:33.568,C:\Users\jeucl\OneDrive\Documentos\Delphi\Aula01.dfm=C:\Users\jeucl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/04 20:15:33.568,C:\Users\jeucl\OneDrive\Documentos\Delphi\Aula01.pas=C:\Users\jeucl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/04 20:40:54.520,C:\Users\jeucl\OneDrive\Documentos\Delphi\ProjetosInicial.dproj=C:\Users\jeucl\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/04 21:16:30.492,C:\Users\jeucl\OneDrive\Documentos\Delphi\TelaCadastro.dproj=C:\Users\jeucl\OneDrive\Documentos\Delphi\ProjetosInicial.dproj</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Aula01.pas"/>
+    <File Path="Aula01.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
