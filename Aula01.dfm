@@ -20,13 +20,14 @@ object Form1: TForm1
     Height = 17
     Caption = 'Cadastro de Usuarios'
   end
-  object salvar: TButton
-    Left = 24
+  object btnSalvar: TButton
+    Left = 33
     Top = 80
     Width = 49
     Height = 25
-    Caption = 'salvar'
+    Caption = 'Salvar'
     TabOrder = 0
+    OnClick = btnSalvarClick
   end
   object EditName: TEdit
     Left = 24

@@ -9,9 +9,11 @@ uses
 type
   TForm1 = class(TForm)
     CadastroDeUsuarios: TLabel;
-    salvar: TButton;
+    btnSalvar: TButton;
     EditName: TEdit;
     cancelar: TBitBtn;
+
+    procedure btnSalvarClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -25,5 +27,15 @@ implementation
 
 {$R *.dfm}
 
+
+           // mostra o Usuario na Tela
+procedure TForm1.btnSalvarClick(Sender: TObject);
+begin
+
+     //EditName.Text := 'José Euclides';
+
+     ShowMessage(EditName.Text)
+
+end;
 
 end.
